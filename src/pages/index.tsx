@@ -20,7 +20,7 @@ export default function Home() {
       <section id="about" className="bg-gray-1 py-24">
         <div className="container mx-auto text-center">
           <h2 className="text-4xl font-bold">About Me</h2>
-            <p className="text-lg mt-4">I'm a Computer Engineer based in Memphis, TN.</p>
+            <p className="text-lg mt-4">I am a Computer Engineer based in Memphis, TN.</p>
         </div>
       </section> 
       {/* Projects */}
