@@ -85,7 +85,7 @@ export default function Home(){
                   </p>
                   {/* Tech Stack */}
                   <div className="flex flex-wrap gap-2 mt-3">
-                    {["stuff", "FastAPI", "Fly.io", "Python", "Selenium", "Telegram Bot API"].map((tech) => (
+                    {["stuff",].map((tech) => (
                       <span key={tech} className="bg-gray-200 dark:bg-gray-700 text-xs text-gray-900 dark:text-gray-100 font-medium px-2 py-1 rounded-md">
                         {tech}
                       </span>
